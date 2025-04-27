@@ -12,7 +12,7 @@ The APK file for the application can be found [here](https://drive.google.com/fi
 ### Using Flutter 
 
 ```shell
-git clone https://github.com/OverRancid/spotify-scrapper
+git clone https://github.com/jalpan07/spotify-scrapper
 cd spotify-scrapper
 ```
 
